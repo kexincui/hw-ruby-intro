@@ -4,6 +4,7 @@
 
 def sum arr
   # YOUR CODE HERE
+  #Testing commit number 2
   arr.inject(0, :+)
 end
 
